@@ -1,7 +1,7 @@
 {
-  "name": "KurrXd",
+  "name": "IndraGantenk",
   "version": "0.0.1",
-  "description": "KurrXd",
+  "description": "IndraGantenk Boss",
   "main": "node .",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "KurrXd",
+  "author": "By IndraGanz",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
